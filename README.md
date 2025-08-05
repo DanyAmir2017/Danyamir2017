@@ -4,7 +4,7 @@
 <a href="mailto:danyamir2017@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
- <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+ <a href="www.linkedin.com/in/daniel-amir-703b32363" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  <a href="link-to-your-cv.pdf" target="_blank">
@@ -31,7 +31,6 @@ I am a Physics and Math enthusiast and mentor <img src="https://media.giphy.com/
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
-
 ---
 
 <h1 align="center">Skills</h1>
