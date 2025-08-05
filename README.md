@@ -44,11 +44,11 @@ I am a Physics and Math enthusiast and mentor <img src="https://media.giphy.com/
 ```
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona400&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danyamir2017&theme=neon-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona400&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyamir2017&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align='center'>
- <img src="https://komarev.com/ghpvc/?username=Mona400&style=flat-square&color=blue" alt="" />
+ <img src="https://komarev.com/ghpvc/?username=Danyamir2017&style=flat-square&color=blue" alt="" />
   </div>
 
 
