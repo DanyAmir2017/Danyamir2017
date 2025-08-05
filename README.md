@@ -4,6 +4,12 @@
 <a href="mailto:danyamir2017@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
+ <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+ <a href="link-to-your-cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat&logoColor=white" alt="CV Badge"/>
+</a>
 </div>
 
 ---
