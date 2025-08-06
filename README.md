@@ -7,7 +7,7 @@
  <a href="https://www.linkedin.com/in/daniel-amir-703b32363" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
- <a href="link-to-your-cv.pdf" target="_blank">
+ <a href="https://drive.google.com/drive/folders/1hhrnyLa_-krX3d7vrik7YTlBjNHJFhT-" target="_blank">
   <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=adobe-acrobat&logoColor=white" alt="CV Badge"/>
 </a>
 </div>
