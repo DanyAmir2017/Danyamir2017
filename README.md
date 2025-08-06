@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Physics and Math enthusiast and mentor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cairo, Egypt.
+I am a Computer Engineer Student and a IGCSE tutor in physics from Cairo, Egypt.
 
 - :telescope: I specialize in **Physics and Math IGCSE tutoring** and mentoring new employees at Gravity Code.
 - :seedling: I’m skilled in programming languages like **Java**, **Python**, **Haskell**, **Prolog**, and **C**.
